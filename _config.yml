@@ -2,7 +2,7 @@ title: "Julien Laville curriculum vitae "
 description: Julien, Laville, curriculum vitae , cv
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-dinky
+theme: jekyll-theme-midnight
 
 gems:
   - jekyll-mentions
