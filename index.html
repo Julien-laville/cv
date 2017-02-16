@@ -204,5 +204,50 @@ Impression 3D (repRap)<br>
             </li>               
         </ul>
  </div>
+    
+    <div class="timeline"></div>
+    
     <div class="footer"></div>
+    
+    
+    <script src="cv.js"></script>
+    <script src="d3.js"></script>
+    <script>
+        const cvData = getData();
+        const xps = cvData.experiences;
+        const svg = d3.select('.timeline')
+            .append('svg')
+            .attr('height', '100px')
+            .attr('width', '100px')
+        
+        
+        
+        xps.forEach(xp => {
+            // date string to date
+            let from = new Date(xp.dates.from)
+            let to = new Date(xp.dates.to)
+            
+            console.log(from, to)
+            
+            svg.append('rect')
+                .attr('x', 0)
+                .attr('y', 0)
+                .attr('width', 20)
+                .attr('height', 20)
+                .attr('fill', '#330012')
+                .on('mouseover', moment => {
+             
+                    
+                
+                })
+            
+            
+        })
+        
+        
+        
+    </script>
+    
+    
+    
 </body></html>
