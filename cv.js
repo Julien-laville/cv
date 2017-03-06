@@ -63,23 +63,20 @@ function getData() {
 
         }, {
             "société": "Université de Nice-Sophia Antipolis, Laboratoire des Langues Appliqués - (06)",
-            "dates": {from: "2010-06-00", to: "2010-08-00"},
+            "dates": {from: "juin 2010", to: "août 2010"},
             "poste": "Développeur (Stagiaire)",
             "réalisations": ["Conception et réalisation d’un outil collaboratif entre les élèves et les enseignants de LEA. Gestion d’un portefeuille de traduction, traduction et correction collaborative. Conception et Création d’un serious game s’articulant en trois parties: jeu, éditeur, serveur de scénario."],
             "environement": ["CMS WordPress", "PHP", "HTML5", "Python", "XML", "JavaScript", "AJAX"]
         }, {
             "société": "Arkadia Consulting, Nice - (06)",
-            "dates": {from: "2009-06-00", to: "2009-08-00"},
+            "dates": {from: "juin 2009", to: "août 2009"},
             "poste": "Développeur (Stagiaire)",
             "réalisations": ["Réalisation de deux sites « vitrines » en Ruby on Rails, ces sites on été construits sous formes de CMS, afin de permettre leur maintenance sans développeur."],
             "environement": ["Windows", "Netbeans", "Ruby on Rails", "jQuery", "Photoshop"]
 
         }],
         "diplomes": [
-            {
-                year: 2011,
-                title: "Master 2 Informatique, fondements et ingénierie - Université de Nice-Sophia Antipolis"
-            },
+            {year: 2011, title: "Master 2 Informatique, fondements et ingénierie - Université de Nice-Sophia Antipolis"},
             {year: 2009, title: "Licence Mathématiques & Informatique - Université de Nice-Sophia Antipolis"},
             {year: 2005, title: "Baccalauréat Scientifique, Lycée Carnot - Cannes"}
         ],
