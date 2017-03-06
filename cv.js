@@ -186,7 +186,7 @@ ouvrages.append('strong')
 
 ouvrages.append('span')
     .text(function(ouvrage){
-        return ' - ' + ouvrage.author
+        return (ouvrage.author ? ouvrage.author + ' - ' : '')
     })
 
 ouvrages.append('span')
