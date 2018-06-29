@@ -23,8 +23,14 @@ function getData() {
             list : ["Eclipse", "NetBeans", "Redmine", "JUnit", "Rubymine", "Tomcat", "Apache HTTP serveur", "SVN", "Mercurial", "GIT", "Grunt", "Capistrano", "Travis CI", "Active-record"]
         }],
         "experiences": [{
+          "société": "Qwant Research",
+          "dates": {from: "décembre 2017", to: "présent"},
+          "poste": "Ingénieur Recherche et développement equipe cartographie",
+          "réalisations": ["Réalisation de l'application web de cartographie. Construction d'une application web de cartographie haute performance autour des technologies de tuiles vectorielles"],
+          "environement": ["JavaScript", "NodeJs", "ExpressJS", "VueJS", "GIT", "WebPack", "Mapbox GL", "Responsive", "Single Page App", "Jest", "Puppeteer"]
+        }, {
             "société": "Qwant",
-            "dates": {from: "octobre 2014", to: "présent"},
+            "dates": {from: "octobre 2014", to: "novembre 2017"},
             "poste": "Ingénieur Recherche et développement",
             "réalisations": ["Construction du core de l'application Front-End de l'application <a href=\"http://qwant.com\">qwant.com</a>, stack Internationalisation, automatisation des builds et du contrôle qualité en collaboration avec la CI", "Mise en place de Qwant Lite, la version allégé de qwant pour robots, et anciens navigateurs en ExpressJS."],
             "contexte": ["One page app", "vanilla JS", "lightweight", "architecture 3 tiers", "CI"],
