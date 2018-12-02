@@ -11,7 +11,7 @@ export default {
     list: ["MySQL", "SQLite", "PostgreSQL"]
   }, {
     category: "Tools",
-    list: ["Jest", "Puppeteer", "PhpStorm", "Webpack", "JUnit", "Rubymine", "Tomcat", "Apache HTTP serveur", "GIT", "Grunt", "Capistrano", "Travis CI", "Active-record"]
+    list: ["Jest", "Puppeteer", "PhpStorm", "Webpack", "JUnit", "Rubymine", "Tomcat", "Apache HTTP server", "GIT", "Grunt", "Capistrano", "Travis CI", "Active-record"]
   }, {
     category: "Methods",
     list: ["Responsive", "design patterns"]
@@ -20,13 +20,13 @@ export default {
     "company": "Qwant Research",
     "dates": {from: "december 2017", to: "now"},
     "position": "Front-end engineer Maps team",
-    "achievement": ["High performance Maps application front-end development using vector tiles.", "Build a tool maps application in vueJs"],
+    "achievement": ["High performance Maps application front-end development using vector tiles", "Build a tool maps application in vueJs"],
     "environment": ["JavaScript", "NodeJs", "ExpressJS", "VueJS", "GIT", "WebPack", "Mapbox GL", "Responsive", "Single Page App", "Jest", "Puppeteer"]
   }, {
     "company": "Qwant",
     "dates": {from: "october 2014", to: "november 2017"},
     "position": "Front-end engineer",
-    "achievement": ["Core building for the Search application front-end in vanilla JavaScript, stack Internationalisation, automated build and quality control in collaboration with the CI team", "Qwant Lite building, a server side version of qwant for web indexer and old browser using expressJs."],
+    "achievement": ["Core building for the Search application front-end in vanilla JavaScript, stack internationalization, automated build and quality control in collaboration with the CI team", "Qwant Lite building, a server side version of qwant for web indexer and old browser using expressJs."],
     "environment": ["JavaScript", "NodeJs", "ExpressJS", "Grunt", "GIT", "PHPStorm", "Vagrant", "Docker", "Poedit"]
   }, {
     "company": "CrossKnowledge Epistema",
@@ -55,21 +55,21 @@ export default {
     "environment": ["Ruby on rails", "Eclipse", "JavaScript", "jQuery UI", "jQuery", "Prototype", "HTML", "Json", "AJAX", "API Dropbox"]
   }, {
     "company": "I3S, Sophia-Antipolis",
-    "dates": {from: "juin 2011", to: "aout 2011"},
-    "position": "Développeur (Intern)",
+    "dates": {from: "june 2011", to: "august 2011"},
+    "position": "Developer (Intern)",
     "achievement": ["Hoare logic based genetic network dynamic resolution application creation."],
     "environment": ["Windows", "Eclipse", "Java"]
 
   }, {
     "company": "Nice-Sophia Antipolis university, Appliquated Language Laboratory LEA",
-    "dates": {from: "juin 2010", to: "août 2010"},
-    "position": "Développeur (Intern)",
+    "dates": {from: "june 2010", to: "august 2010"},
+    "position": "Developper (Intern)",
     "achievement": ["Translation and colaborative tool between student and teacher conception and realisation.", "Serious game making with complete story editor, game and story market place using early EcmaScript 6 features and support."],
     "environment": ["CMS WordPress", "PHP", "HTML5", "Python", "XML", "JavaScript", "AJAX"]
   }, {
     "company": "Arkadia Consulting, Nice - (06)",
-    "dates": {from: "juin 2009", to: "août 2009"},
-    "position": "Développeur (Intern)",
+    "dates": {from: "june 2009", to: "august 2009"},
+    "position": "Developper (Intern)",
     "achievement": ["Two website making and designing using Ruby on Rails with securised back-office"],
     "environment": ["Windows", "Netbeans", "Ruby on Rails", "jQuery", "Photoshop"]
 
@@ -92,7 +92,7 @@ export default {
   projets: [
     {
      title: "Silent Network",
-     desc: "Js13k 2018 submition",
+     desc: "Js13k 2018 entry",
      href: "https://github.com/Julien-laville/js13k2018",
      url: "Github/js13k2018"
     },
@@ -115,6 +115,6 @@ export default {
   ],
   contacts: [
     {type: 'email', url: 'alternative451@gmail.com', display: 'Alternative451@gmail.com'},
-    {type: 'linkedIn', url: 'https://www.linkedin.com/in/julien-laville-06885327/', display : 'www.inkedIn/alternative451'}
+    {type: 'linkedIn', url: 'https://www.linkedin.com/in/julien-laville-06885327/', display : 'www.linkedIn/alternative451'}
   ]
 }
