@@ -42,46 +42,46 @@ export default {
     "achievement": ["Content Management System integration for complex static web page using jQuery UI and TeamSite CMS"],
     "environment": ["JavaScript", "jQuery", "struts", "J2EE", "Perl"]
   }, {
-    "company": "Koedia - Sophia Antipolis - (06)",
+    "company": "Koedia - Sophia Antipolis",
     "dates": {from: "february 2012", to: "june 2013."},
     "position": "Full-stack engineer",
     "achievement": ["Creation of new webservices for plane reservation including test and monitoring", "Monitoring and Optimizing B2B & B2C web application", "Adding core features on the ticketing application RedMine"],
     "environment": ["WebService (SOAP & WSDL)", "Java J2EE", "Hibernate", "Tomcat", "Spring", "HTML", "Json", "AJAX", "Ruby & Ruby on Rails"]
   }, {
-    "company": "Auto-entreprise de développement WEB",
+    "company": "Self-employed WEB developer",
     "dates": {from: "2009", to: "2012"},
-    "position": "Développeur logiciel",
-    "achievement": ["Creation of a Portal web "],
+    "position": "Software devlopper",
+    "achievement": ["Web portal and Shop Creation using ruby on rails framework"],
     "environment": ["Ruby on rails", "Eclipse", "JavaScript", "jQuery UI", "jQuery", "Prototype", "HTML", "Json", "AJAX", "API Dropbox"]
   }, {
-    "company": "I3S, Sophia-Antipolis - (06)",
+    "company": "I3S, Sophia-Antipolis",
     "dates": {from: "juin 2011", to: "aout 2011"},
-    "position": "Développeur (Stagiaire)",
-    "achievement": ["Réalisation d’une application de résolution de la dynamique de réseaux génétiques basée sur la logique de Hoare."],
+    "position": "Développeur (Intern)",
+    "achievement": ["Hoare logic based genetic network dynamic resolution application creation."],
     "environment": ["Windows", "Eclipse", "Java"]
 
   }, {
-    "company": "Université de Nice-Sophia Antipolis, Laboratoire des Langues Appliqués - (06)",
+    "company": "Nice-Sophia Antipolis university, Appliquated Language Laboratory LEA",
     "dates": {from: "juin 2010", to: "août 2010"},
-    "position": "Développeur (Stagiaire)",
-    "achievement": ["Conception et réalisation d’un outil collaboratif entre les élèves et les enseignants de LEA. Gestion d’un portefeuille de traduction, traduction et correction collaborative. Conception et Création d’un serious game s’articulant en trois parties: jeu, éditeur, serveur de scénario."],
+    "position": "Développeur (Intern)",
+    "achievement": ["Translation and colaborative tool between student and teacher conception and realisation.", "Serious game making with complete story editor, game and story market place using early EcmaScript 6 features and support."],
     "environment": ["CMS WordPress", "PHP", "HTML5", "Python", "XML", "JavaScript", "AJAX"]
   }, {
     "company": "Arkadia Consulting, Nice - (06)",
     "dates": {from: "juin 2009", to: "août 2009"},
-    "position": "Développeur (Stagiaire)",
-    "achievement": ["Réalisation de deux sites « vitrines » en Ruby on Rails, ces sites on été construits sous formes de CMS, afin de permettre leur maintenance sans développeur."],
+    "position": "Développeur (Intern)",
+    "achievement": ["Two website making and designing using Ruby on Rails with securised back-office"],
     "environment": ["Windows", "Netbeans", "Ruby on Rails", "jQuery", "Photoshop"]
 
   }],
   diplomas: [
-    {year: 2011, title: "Master 2 Informatique, fondements et ingénierie - Université de Nice-Sophia Antipolis"},
-    {year: 2009, title: "Licence Mathématiques & Informatique - Université de Nice-Sophia Antipolis"}
+    {year: 2011, title: "Computer science Master degree, engineering & foundations - Nice-Sophia Antipolis university"},
+    {year: 2009, title: "Mathematics & Computer science Licence - Nice-Sophia Antipolis university"}
   ],
 
   favoriteBooks: [
     {title: "Code complete", author: "Steve McConnell"},
-    {title: "97 Things Every Programmer Should Know"}
+    {title: "97 Things Every Programmer Should Know", author: "Kevlin Henney and Seb Rose"}
   ],
   hobbies: [
     "R/C Plane & Quadcopter",
@@ -90,6 +90,12 @@ export default {
   ],
 
   projets: [
+    {
+     title: "Silent Network",
+     desc: "Js13k 2018 submition",
+     href: "https://github.com/Julien-laville/js13k2018",
+     url: "Github/js13k2018"
+    },
     {
       title: "KV-Mini host",
       desc: "serveur simple de stockage KEY VALUE.",
