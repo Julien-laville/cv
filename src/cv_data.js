@@ -1,5 +1,5 @@
 export default {
-  title: "Julien Laville | Senior full-stack engineer",
+  title: "Julien&nbsp;Laville | Senior&nbsp;full&#8209;stack&nbsp;engineer",
   technologies: [{
     category: "languages",
     list: ["JavaScript ES6", "NodeJS", "HTML5", "CSS3", "YML", "JSON", "Ruby", "PHP", "C", "C++"]
@@ -18,14 +18,14 @@ export default {
   }],
   "experiences": [{
     "company": "Qwant Research",
-    "dates": {from: "décembre 2017", to: "présent"},
-    "position": "Ingénieur Recherche et développement equipe cartographie",
-    "achievement": ["Réalisation de l'application web de cartographie. Construction d'une application web de cartographie haute performance autour des technologies de tuiles vectorielles"],
+    "dates": {from: "december 2017", to: "now"},
+    "position": "Front-end engineer Maps team",
+    "achievement": ["High performance Maps application front-end development using vector tiles."],
     "environment": ["JavaScript", "NodeJs", "ExpressJS", "VueJS", "GIT", "WebPack", "Mapbox GL", "Responsive", "Single Page App", "Jest", "Puppeteer"]
   }, {
     "company": "Qwant",
-    "dates": {from: "octobre 2014", to: "novembre 2017"},
-    "position": "Ingénieur Recherche et développement",
+    "dates": {from: "october 2014", to: "november 2017"},
+    "position": "Front-end engineer",
     "achievement": ["Construction du core de l'application Front-End de l'application Qwant, stack Internationalisation, automatisation des builds et du contrôle qualité en collaboration avec la CI", "Mise en place de Qwant Lite, la version allégé de qwant pour robots, et anciens navigateurs en ExpressJS."],
     "environment": ["JavaScript", "NodeJs", "ExpressJS", "Grunt", "GIT", "PHPStorm", "Vagrant", "Docker", "Poedit"]
   }, {

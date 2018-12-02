@@ -14,7 +14,7 @@ class PageComponent extends Component {
       return (
         <div className='app'>
           <div className="top">
-            <h1>{data.title}</h1>
+            <h1 dangerouslySetInnerHTML={{__html: data.title}}/>
           </div>
           <Tech technologies={data.technologies}/>
           <Experiences experiences={data.experiences} />
