@@ -1,0 +1,26 @@
+{
+  "name": "cv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cv_data.js",
+  "dependencies": {
+    "@babel/core": "^7.1.5",
+    "@babel/preset-react": "^7.0.0",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.4",
+    "babel-preset-es2015": "^6.24.1",
+    "react": "^16.6.1",
+    "react-dom": "^16.6.1",
+    "webpack": "^4.25.1"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-laville/cv.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "homepage": "https://github.com/Julien-laville/cv#readme"
+}
