@@ -20,38 +20,38 @@ export default {
     "company": "Qwant Research",
     "dates": {from: "december 2017", to: "now"},
     "position": "Front-end engineer Maps team",
-    "achievement": ["High performance Maps application front-end development using vector tiles."],
+    "achievement": ["High performance Maps application front-end development using vector tiles.", "Build a tool maps application in vueJs"],
     "environment": ["JavaScript", "NodeJs", "ExpressJS", "VueJS", "GIT", "WebPack", "Mapbox GL", "Responsive", "Single Page App", "Jest", "Puppeteer"]
   }, {
     "company": "Qwant",
     "dates": {from: "october 2014", to: "november 2017"},
     "position": "Front-end engineer",
-    "achievement": ["Construction du core de l'application Front-End de l'application Qwant, stack Internationalisation, automatisation des builds et du contrôle qualité en collaboration avec la CI", "Mise en place de Qwant Lite, la version allégé de qwant pour robots, et anciens navigateurs en ExpressJS."],
+    "achievement": ["Core building for the Search application front-end in vanilla JavaScript, stack Internationalisation, automated build and quality control in collaboration with the CI team", "Qwant Lite building, a server side version of qwant for web indexer and old browser using expressJs."],
     "environment": ["JavaScript", "NodeJs", "ExpressJS", "Grunt", "GIT", "PHPStorm", "Vagrant", "Docker", "Poedit"]
   }, {
     "company": "CrossKnowledge Epistema",
-    "dates": {from: "avril 2014", to: "septembre 2014"},
-    "position": "Ingénieur Recherche et développement",
-    "achievement": ["Dans le cadre d’une refonte de l’application web, Intégration complete du framework ExtJs pour les éléments de navigation, graphiques, calendriers"],
+    "dates": {from: "april 2014", to: "september 2014"},
+    "position": "Front-end engineer",
+    "achievement": ["FUll replacement of jquery ui module by extJs on the back-office application including calendar, charts, autocomplete"],
     "environment": ["JavaScript", "PHP", "Mercurial", "ExtJS"]
 
   }, {
     "company": "Air France, Sophia Antipolis",
     "dates": {from: "juillet 2013", to: "mars 2014"},
-    "position": "Développeur informatique",
-    "achievement": ["étude, développement et tests autour des sites Business to Client de la société"],
+    "position": "Front-end engineer",
+    "achievement": ["Content Management System integration for complex static web page using jQuery UI and TeamSite CMS"],
     "environment": ["JavaScript", "jQuery", "struts", "J2EE", "Perl"]
   }, {
     "company": "Koedia - Sophia Antipolis - (06)",
-    "dates": {from: "février 2012", to: "juin 2013."},
-    "position": "Développeur informatique",
-    "achievement": ["Backend : Ajout de fonctionnalités aux WebService d’aviation : Rédaction des spécifications, développement des tests et des services.", "Frontend : Monitoring, Ajout de fonctionnalités et optimisation des sites B2B & B2C. Extension des fonctionnalités ticket-tracker Redmine"],
+    "dates": {from: "february 2012", to: "june 2013."},
+    "position": "Full-stack engineer",
+    "achievement": ["Creation of new webservices for plane reservation including test and monitoring", "Monitoring and Optimizing B2B & B2C web application", "Adding core features on the ticketing application RedMine"],
     "environment": ["WebService (SOAP & WSDL)", "Java J2EE", "Hibernate", "Tomcat", "Spring", "HTML", "Json", "AJAX", "Ruby & Ruby on Rails"]
   }, {
     "company": "Auto-entreprise de développement WEB",
     "dates": {from: "2009", to: "2012"},
     "position": "Développeur logiciel",
-    "achievement": ["Réalisation d’un site portail et boutique en ligne"],
+    "achievement": ["Creation of a Portal web "],
     "environment": ["Ruby on rails", "Eclipse", "JavaScript", "jQuery UI", "jQuery", "Prototype", "HTML", "Json", "AJAX", "API Dropbox"]
   }, {
     "company": "I3S, Sophia-Antipolis - (06)",
