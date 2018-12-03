@@ -27,22 +27,22 @@ export default {
     "dates": {from: "october 2014", to: "november 2017"},
     "position": "Front-end engineer",
     "achievement": ["Core building for the Search application front-end in vanilla JavaScript, stack internationalization, automated build and quality control in collaboration with the CI team", "Qwant Lite building, a server side version of qwant for web indexer and old browser using expressJs."],
-    "environment": ["JavaScript", "NodeJs", "ExpressJS", "Grunt", "GIT", "PHPStorm", "Vagrant", "Docker", "Poedit"]
+    "environment": ["JavaScript", "NodeJs", "ExpressJS", "Grunt", "GIT", "PHPStorm", "Vagrant", "Docker", "PoEdit"]
   }, {
     "company": "CrossKnowledge Epistema",
     "dates": {from: "april 2014", to: "september 2014"},
     "position": "Front-end engineer",
-    "achievement": ["FUll replacement of jquery ui module by extJs on the back-office application including calendar, charts, autocomplete"],
+    "achievement": ["Full replacement of jQuery UI module by extJs on the back-office application including calendar, charts, autocomplete"],
     "environment": ["JavaScript", "PHP", "Mercurial", "ExtJS"]
 
   }, {
-    "company": "Air France, Sophia Antipolis",
-    "dates": {from: "juillet 2013", to: "mars 2014"},
+    "company": "Air France, Sophia-Antipolis",
+    "dates": {from: "july 2013", to: "mars 2014"},
     "position": "Front-end engineer",
     "achievement": ["Content Management System integration for complex static web page using jQuery UI and TeamSite CMS"],
     "environment": ["JavaScript", "jQuery", "struts", "J2EE", "Perl"]
   }, {
-    "company": "Koedia - Sophia Antipolis",
+    "company": "Koedia - Sophia-Antipolis",
     "dates": {from: "february 2012", to: "june 2013."},
     "position": "Full-stack engineer",
     "achievement": ["Creation of new webservices for plane reservation including test and monitoring", "Monitoring and Optimizing B2B & B2C web application", "Adding core features on the ticketing application RedMine"],
@@ -50,9 +50,9 @@ export default {
   }, {
     "company": "Self-employed WEB developer",
     "dates": {from: "2009", to: "2012"},
-    "position": "Software devlopper",
-    "achievement": ["Web portal and Shop Creation using ruby on rails framework"],
-    "environment": ["Ruby on rails", "Eclipse", "JavaScript", "jQuery UI", "jQuery", "Prototype", "HTML", "Json", "AJAX", "API Dropbox"]
+    "position": "Software developer",
+    "achievement": ["Web portal and Shop Creation using Ruby on Rails framework"],
+    "environment": ["Ruby on Rails", "Eclipse", "JavaScript", "jQuery UI", "jQuery", "Prototype", "HTML", "Json", "AJAX", "API Dropbox"]
   }, {
     "company": "I3S, Sophia-Antipolis",
     "dates": {from: "june 2011", to: "august 2011"},
@@ -61,10 +61,10 @@ export default {
     "environment": ["Windows", "Eclipse", "Java"]
 
   }, {
-    "company": "Nice-Sophia Antipolis university, Appliquated Language Laboratory LEA",
+    "company": "Nice Sophia-Antipolis university, Appliqued Language Laboratory LEA",
     "dates": {from: "june 2010", to: "august 2010"},
     "position": "Developper (Intern)",
-    "achievement": ["Translation and colaborative tool between student and teacher conception and realisation.", "Serious game making with complete story editor, game and story market place using early EcmaScript 6 features and support."],
+    "achievement": ["Translation and collaborative tool between student and teacher conception and realisation.", "Serious game making with complete story editor, game and story market place using early EcmaScript 6 features and support."],
     "environment": ["CMS WordPress", "PHP", "HTML5", "Python", "XML", "JavaScript", "AJAX"]
   }, {
     "company": "Arkadia Consulting, Nice - (06)",
@@ -75,8 +75,8 @@ export default {
 
   }],
   diplomas: [
-    {year: 2011, title: "Computer science Master degree, engineering & foundations - Nice-Sophia Antipolis university"},
-    {year: 2009, title: "Mathematics & Computer science Licence - Nice-Sophia Antipolis university"}
+    {year: 2011, title: "Computer science Master degree, engineering & foundations - Nice Sophia-Antipolis university"},
+    {year: 2009, title: "Mathematics & Computer science Licence - Nice Sophia-Antipolis university"}
   ],
 
   favoriteBooks: [
@@ -95,20 +95,19 @@ export default {
      desc: "Js13k 2018 entry",
      href: "https://github.com/Julien-laville/js13k2018",
      url: "Github/js13k2018"
-    },
-    {
+    }, {
       title: "KV-Mini host",
-      desc: "serveur simple de stockage KEY VALUE.",
+      desc: "Minimalist KEY VALUE hosting application",
       href: "https://github.com/Julien-laville/kv-mini-host",
       url: "Github/kv-mini-host"
     }, {
       title: "Divide",
-      desc: "Mini jeu JavaScript inspiré de Super Hot (W.I.P).",
+      desc: "Super Hot inspired 2D game",
       href: "https://github.com/Julien-laville/divide/tree/gh-pages",
       url: "Github/divide"
     }, {
       title: "jsToolBox",
-      desc: "Micro lib JavaScript orienté haute performance.",
+      desc: "High performance JavaScript Micro lib for 2D games",
       href: "https://github.com/Julien-laville/jsToolBox",
       url: "Github/jsToolBox"
     }
