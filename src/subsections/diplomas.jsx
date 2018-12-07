@@ -12,9 +12,7 @@ export default class Diplomas extends Component {
             return (
               <ul>
                 <li>
-                  <h3>
-                    <span className="diploma__title">{diploma.title}</span> <span className="diploma__year">{diploma.year}</span>
-                  </h3>
+                  <span className="diploma__title">{diploma.title}</span> <span className="diploma__year">{diploma.year}</span>
                 </li>
               </ul>
             )

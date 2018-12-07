@@ -9,9 +9,9 @@ export default class Books extends Component {
         <div className="category__content category__content__card">
         {this.props.books.map((book) => {
           return (
-            <h3>
+            <p>
               <span className="book__title">{book.title}</span> <span className="book__author">{book.author}</span>
-            </h3>
+            </p>
           )
         })}
       </div>

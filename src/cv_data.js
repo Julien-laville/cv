@@ -70,7 +70,7 @@ export default {
     "company": "Arkadia Consulting, Nice - (06)",
     "dates": {from: "june 2009", to: "august 2009"},
     "position": "Developper (Intern)",
-    "achievement": ["Two website making and designing using Ruby on Rails with securised back-office"],
+    "achievement": ["Making and designing two websites using Ruby on Rails with secured back-office"],
     "environment": ["Windows", "Netbeans", "Ruby on Rails", "jQuery", "Photoshop"]
 
   }],

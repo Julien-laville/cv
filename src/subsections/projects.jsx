@@ -12,7 +12,7 @@ export default class Projects extends Component {
             return (
               <ul>
                 <li>
-                  <h3>{project.title}</h3>
+                  <p>{project.title}</p>
                   <p>{project.desc}</p>
                   <a href={project.href}>{project.url}</a>
                 </li>

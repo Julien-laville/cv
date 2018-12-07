@@ -12,7 +12,7 @@ export default class Hobbies extends Component {
             return (
               <ul>
                 <li>
-                  <h3>{hobby}</h3>
+                  <p>{hobby}</p>
                 </li>
               </ul>
             )
